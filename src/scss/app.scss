@@ -1,17 +1,45 @@
 @import 'home';
+@import 'nosotros';
 @import '~bootstrap/scss/bootstrap';
 
 
 body {
-	background: black;
-	font-size: 30px;
+	background: white;
+	margin:0;
+	padding:0;
 }
 
-.container {
-	background: black;
+.menu_blanco{
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	font-size:1rem;
+}
 
-	p {
-		font-size: 40px;
+.logo{
+	width: 150px;
+}
+.menu{
+	background-color: #008ccc;
+}
+
+.footer{
+	padding: 2%;
+	background-color: #008ccc;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size:1rem;
+	div hr{
+	background-color:white;
+	}
+	div i{
+		color:white;
+		font-size: 3rem;
+		text-aling: center;
+		padding: 1%;
 	}
 }
 
+.email{
+	color: #FAFAFA;
+	font-style:oblique;
+}
