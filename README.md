@@ -1,5 +1,5 @@
 # Proyecto Fundación Niño y Cáncer
-[Laravel Mix](https://github.com/JeffreyWay/laravel-mix) COLOCAR EL GITHUB PAGES AQUÍ
+
 
 	-Página web con 3 pestañas, contenido:
 		Home
@@ -35,7 +35,7 @@ Requerimientos visuales:
 			-Barra de navegación fija y Footer con datos de empresa, formulario de contacto y mapa.
 			-2 Secciones:
 				1- Historia de la fundación misión y visión.
-				2- Cuerpo médico de la fundación.		
+				2- Cuerpo médico de la fundación.	jj	
 ```
 
 ## Instalación
@@ -58,8 +58,10 @@ Bajar el repositorio e instalar laravel mix usando npm
 	- Imágenes de slide sacadas del facebook de la página.
 	- Se añade un slide en versión en el banner.
 ```
-
-
+### link github
+```bash
+[Laravel Mix](https://github.com/JeffreyWay/laravel-mix)
+```
 
 
 
